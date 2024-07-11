@@ -10,3 +10,4 @@ echo The files in your current directory are:
 ls
 
 #run script by ./directory_listing.sh
+#ensure correct privledges via ls -la, should see x for executable 
