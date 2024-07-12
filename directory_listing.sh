@@ -11,3 +11,5 @@ ls
 
 #run script by ./directory_listing.sh
 #ensure correct privledges via ls -la, should see x for executable 
+#if not -- chmod 755 directory_listing.sh
+# first line indicates this is a script, a bash script.
